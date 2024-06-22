@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\views\\home\\alunos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\views\\home\\alunos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\models\\conexaobancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\models\\conexaobancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-mvc\\miniprojeto-mvc\\miniprojeto-mvc\\views\\home\\editaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70466B20-ADD7-48B1-BD6B-B75849742315}|miniprojeto-mvc\\miniprojeto-mvc.csproj|solutionrelative:miniprojeto-mvc\\views\\home\\editaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "miniprojeto-mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:26:41.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alunos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\Alunos.cshtml",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Views\\Home\\Alunos.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\Alunos.cshtml",
+              "RelativeToolTip": "miniprojeto-mvc\\Views\\Home\\Alunos.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T23:59:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "miniprojeto-mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:51:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "miniprojeto-mvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:51:27.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexaoBancoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\ConexaoBancoDbContext.cs",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Models\\ConexaoBancoDbContext.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\ConexaoBancoDbContext.cs",
+              "RelativeToolTip": "miniprojeto-mvc\\Models\\ConexaoBancoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:51:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Models\\Aluno.cs",
+              "RelativeToolTip": "miniprojeto-mvc\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:51:25.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\EditAluno.cshtml",
+              "RelativeDocumentMoniker": "miniprojeto-mvc\\Views\\Home\\EditAluno.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\mini-projeto-com-aspnet-na-arquitetura-MVC\\miniprojeto-mvc\\miniprojeto-mvc\\Views\\Home\\EditAluno.cshtml",
+              "RelativeToolTip": "miniprojeto-mvc\\Views\\Home\\EditAluno.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T23:39:19.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

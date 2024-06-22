@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Add Aluno Page";
+}
+
+@model miniprojeto_mvc.Models.Aluno
+
+<div class="text-center">
+    <h1 class="display-4">Editar Aluno</h1>
+
+    <form asp-action="CreateEditAlunoForm" asp-controller="Home">
+        <input hidden class="form-control" type="number" placeholder="0" asp-for="Id" />
+
+        <label class="mt-4">Nome:</label>
+        <input class="form-control" type="string" placeholder="Coloque o nome" asp-for="Nome" />
+
+        <label class="mt-4">Idade:</label>
+        <input class="form-control" type="number" placeholder="digite a idade" asp-for="Idade" />
+
+        <label class="mt-4">Cpf:</label>
+        <input class="form-control" type="string" placeholder="digite o cpf" asp-for="Cpf" />
+
+        <label class="mt-4">Matricula:</label>
+        <input class="form-control" type="string" placeholder="digite a matricula" asp-for="Matricula" />
+
+        <label class="mt-4">Periodo:</label>
+        <input class="form-control" type="string" placeholder="digite o periodo" asp-for="Periodo" />
+
+        <button class="btn btn-primary mt-4" type="submit">Ok</button>
+    </form>
+</div>
